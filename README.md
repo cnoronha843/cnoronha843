@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Noronha</h1>
-<h3 align="center">Student of the 7th period of Software Engineering with experience in infrastructure. I had
+<h3 align="center">Student of the 6th period of Software Engineering with experience in infrastructure. I had
 contact and developed small academic projects with Object Orientation, Python,
 HTML, CSS, JavaScript, Java, C #, Spring, .Net Core, with persistence in MySql and
 SQLSever, use the EF Core and JPA / Hibernate</h3>
