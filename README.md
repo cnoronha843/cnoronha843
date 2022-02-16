@@ -5,7 +5,7 @@ HTML, CSS, JavaScript, Java, C #, Spring, .Net Core, with persistence in MySql a
 SQLSever, use the EF Core and JPA / Hibernate</h3>
 
 
-- 🔭 I’m currently working on [Lojas Leader]
+- 🔭 I’m currently working on [PremierSoft]
 
 
 <p align="left">
